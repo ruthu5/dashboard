@@ -1,0 +1,7 @@
+ console.log("Hello World");
+  var a="something";
+  alert("Hello world")
+
+  function myFunction(a,b) {
+  	alert(a+b);
+  }

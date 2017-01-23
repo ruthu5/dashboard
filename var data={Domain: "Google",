@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>Admin Dashboard</h2>
+<p id="demo"></p>
+<script>[
+{
+Domain : "Google",
+Space : {used : "60gb",
+         alloted : 60gb},
+{
+id : "002",
+name : "melon",
+category : "fruit",
+color : "green"
+},
+{
+id : "003",
+name : "banana",
+category : "fruit",
+color : "yellow"
+}
+]
+
+</script>
+
+</body>
+</html>              
